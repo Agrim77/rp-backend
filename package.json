@@ -7,7 +7,7 @@
 		"dev": "nodemon app.js",
 		"start": "node app.js"
 	},
-	"author": "",
+	"author": "agrim",
 	"license": "ISC",
 	"dependencies": {
 		"cors": "^2.8.5",
